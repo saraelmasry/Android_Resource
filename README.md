@@ -32,3 +32,6 @@ In case you couldn't make it due to one reason or another, know that all hope is
 - ->[TDD walkthrough - Java](https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/#more-464)
 - ->[TDD crash course - Java](https://www.youtube.com/watch?app=desktop&v=z6gOPonp2t0&t=319s)
 
+### Preparing Interview:
+- ->[Kotlin Android Interview Questions](https://blog.mindorks.com/kotlin-android-interview-questions)
+
